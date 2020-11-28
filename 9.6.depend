@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606580314 source:c:\users\ryumi\desktop\9.5(1)\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	<cmath>
+
